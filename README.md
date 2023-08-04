@@ -25,5 +25,5 @@
     2. Fast Searching
     3. accurate result
     
-# Author
-    clay
+# Contact:
+    Telegram Group: https://t.me/machine1337
